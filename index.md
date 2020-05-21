@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Megan's Website
+description: A portfolio of my work
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
