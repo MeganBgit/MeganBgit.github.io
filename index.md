@@ -3,7 +3,7 @@ title: Megan's Website
 description: A portfolio of my work
 ---
 
-![My Picture](/pics/Pic.png)
+[About Me](/pics/index.md)
 
 This is content I've developed for my courses:
 
