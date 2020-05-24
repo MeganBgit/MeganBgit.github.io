@@ -3,7 +3,7 @@ title: Megan's Website
 description: A portfolio of my work
 ---
 
-![My Picture](/pics/Megan Bostic_eNet.jpg)
+![My Picture](/pics/PhotoSelf.png)
 
 This is content I've developed for my courses:
 
