@@ -1,6 +1,6 @@
 ---
 title: Time Series Decomposition
-description: Course Content
+description: Course Content created by Megan Bostic
 ---
 
 Here is a Time Series Decomposition I use in my CTBA course
