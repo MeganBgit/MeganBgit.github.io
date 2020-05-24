@@ -7,4 +7,4 @@ Here is a link to a repository with some of my work samples from previous course
 - [Sample Repository](https://github.com/MeganBgit/SampleWork)
 
 
-[Back to Home](MeganBgit.github.io/index.md)
+[Back to Home](MeganBgit.github.io)
