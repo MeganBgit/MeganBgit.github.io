@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-I am a graduate student at William and Mary, currently in their MSBA program.
+I recently graduated from the MSBA program at the College of William and Mary. I am currently working as a Business Operations Analyst at Navy Federal Credit Union. 
 
 ![Photo](Pic.png)
 
