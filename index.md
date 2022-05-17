@@ -1,6 +1,6 @@
 ---
 title: Megan's Website
-description: A portfolio of my work
+description: A portfolio of my work completed during my MSBA program
 ---
 
 [About Me](/pics/index.md)
